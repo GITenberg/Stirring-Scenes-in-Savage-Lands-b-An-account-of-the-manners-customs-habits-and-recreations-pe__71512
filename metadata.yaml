@@ -1,0 +1,30 @@
+_repo: Stirring-Scenes-in-Savage-Lands-b-An-account-of-the-manners-customs-habits-and-recreations-pe__71512
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Greenwood, James
+    birthdate: 1832
+    deathdate: 1929
+    gutenberg_agent_id: '43368'
+    url: http://www.gutenberg.org/2009/agents/43368
+description: ''
+gutenberg_issued: '2023-08-28'
+identifiers:
+  gutenberg: '71512'
+language: en
+pgterms:marc904: https://archive.org/details/stirringscenesin00greeuoft/mode/2up
+pgterms:marc905: 20210714040251greenwood
+pgterms:marc906: '1865'
+pgterms:marc907: GB
+production_note: Brian Coe, Karin Spence and the Online Distributed Proofreading Team
+  at https://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive)
+publication_note: '  $aLondon :$bWard, Locke & Co, $c1865.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Stirring Scenes in Savage Lands : $b An account of the manners, customs, habits
+  and recreations, peaceful and warlike, of the uncivilised world'
+url: http://www.gutenberg.org/ebooks/71512
