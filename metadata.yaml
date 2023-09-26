@@ -1,5 +1,8 @@
 _repo: Stirring-Scenes-in-Savage-Lands-b-An-account-of-the-manners-customs-habits-and-recreations-pe__71512
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71512-h/images/cover.jpg
 creator:
   author:
     agent_name: Greenwood, James
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '43368'
     url: http://www.gutenberg.org/2009/agents/43368
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71512#Stirring-Scenes-in-Savage-Lands-b-An-account-of-the-manners-customs-habits-and-recreations-pe_
 gutenberg_issued: '2023-08-28'
 identifiers:
   gutenberg: '71512'
